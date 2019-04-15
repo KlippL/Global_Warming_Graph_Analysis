@@ -73,7 +73,7 @@ Each of the visualizations are evaluated based on these four categories:
 
 
 ## Graph 1
-### Global Surface Temperature Analysis from Four Independent Data Sources
+### Global Surface Temperature Analysis from Four Independent Data Sources[^5]
 
 
 <center>
@@ -91,7 +91,7 @@ This graph is a very compelling visualization all of the ways defined by the fra
 
 
 ## Graph 2
-### Paleoclimate and Recent Temperatures
+### Paleoclimate and Recent Temperatures[^6]
 
 
 <center>
@@ -109,7 +109,7 @@ This figure is from a paper called Climate Change Reconsidered: 2011 Interim Rep
 
 
 ## Graph 3
-### Greenhouse Gasses 
+### Greenhouse Gasses[^1]
 
 
 <center>
@@ -127,7 +127,7 @@ Greenhouse gasses including carbon dioxide (CO2) emissions is what most scientis
 
 
 ## Graph 4
-### Arctic Sea Ice 
+### Arctic Sea Ice [^7]
 
 <center>
 ![](Arctic Sea Ice.gif)
@@ -145,7 +145,7 @@ spatiotemporal graphics are newer forms of visualizations that have come with be
 
 
 ## Graph 5
-### Ocean Acidity
+### Ocean Acidity [^8]
 
 <center>
 ![](OceanAcidity.png)
@@ -175,5 +175,13 @@ This graph is a very good example of the relationship between human involvement 
 
 [^3]: Gomes, Mayra Magalhaes "Data Visualization - Best Practices and Foundations", Accessed April 12, 2019. https://www.toptal.com/designers/data-visualization/data-visualization-best-practices
 
-[^4]: McCready "5 Ways Writers Use Misleading Graphs To Manipulate You", Accessed April 12, 2019, https://venngage.com/blog/misleading-graphs/
+[^4]: McCready "5 Ways Writers Use Misleading Graphs To Manipulate You." *Venngage*. Accessed April 12, 2019, https://venngage.com/blog/misleading-graphs/
+
+[^5] "Global Temperature Records - Old and New." *CarbonBrief*. October 21, 2011 Accessed April 11, 2019. https://www.carbonbrief.org/global-temperature-records-old-and-new.
+
+[^6] Singer, S. Fred, Idso, Craig, Carter, Robert M. "Paleoclimate and Recent Temperatures" in CLIMATE CHANGE RECONSIDERED: 2011 INTERIM REPORT. pp 53, August 29, 2011. https://www.heartland.org/_template-assets/documents/CCR/CCR-Interim/03%20Temperature.pdf
+
+[^7] McGrath, Matt. "Final call to save the world from 'climate catastrophe'." *BBC News*. 8 October 2018. https://www.bbc.com/news/science-environment-45775309
+
+[^8] Walsh, John, Wuebbles, Donald. "Ocean Acidification" in Our Changing Climate. 2014. *National Climate Assessment*. https://nca2014.globalchange.gov/report/our-changing-climate/ocean-acidification
 
