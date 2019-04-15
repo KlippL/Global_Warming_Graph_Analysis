@@ -2,6 +2,6 @@
 Self Study analysis of climate change visualizations pertaining to global warming attributed to human activity
 
 <center>
-![](/blob/master/Global%20Warming%20Stripe%20Graphic.png?raw=true)
+![Image](blob/master/Global%20Warming%20Stripe%20Graphic.png?raw=true)
 </center>
  
